@@ -1,0 +1,1 @@
+This file only exists to prevent issues with the Vortex mod installer ignoring empty folders
